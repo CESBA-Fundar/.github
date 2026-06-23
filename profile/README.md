@@ -13,3 +13,5 @@ El proyecto recorrerá tres etapas que se entrelazan. Primero intentaremos ver c
 **Todos los días Buenos Aires se reinventa. Entenderla es el primer paso para habitarla mejor.**
 
 ## Visitá el sitio web del proyecto en este [link](https://scrolly.cesba.gob.ar/)
+
+## Consultá los datos del proyecto en este [repositorio](https://github.com/CESBA-Fundar/data)
